@@ -29,3 +29,9 @@ make
 ## License
 
 MIT License
+
+
+## Live Demo
+- **GitHub Pages:** [https://raphasha27.github.io/cpp-high-performance-ml](https://raphasha27.github.io/cpp-high-performance-ml)
+- **Docker Hub:** [docker pull raphasha27/cpp-high-performance-ml](https://hub.docker.com/r/raphasha27/cpp-high-performance-ml)
+
